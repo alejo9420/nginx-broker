@@ -1,0 +1,4 @@
+edu/eci/arsw/msgbroker/WebsocketsMsbrokerExampleApplication.class
+edu/eci/arsw/msgbroker/model/Point.class
+edu/eci/arsw/msgbroker/STOMPMessagesHandler.class
+edu/eci/arsw/msgbroker/WebSocketConfig.class
